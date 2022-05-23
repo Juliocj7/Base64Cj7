@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210817-222335_Termux](https://user-images.githubusercontent.com/81049859/129828207-565e8c06-bdbd-45d4-b2f7-7e20dc89b144.png)
+![Screenshot_20220522-225141_Termux](https://user-images.githubusercontent.com/81049859/169734628-b0d752e1-c1c2-4dd3-af20-59fa327ccd2d.png)
+
 
 
 ## Base64Cj7 :
