@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-152517_Termux](https://user-images.githubusercontent.com/81049859/209864032-4593b164-0e65-4bce-99ce-6bed00565d1d.png)
+![1000328319](https://github.com/Juliocj7/Base64Cj7/assets/81049859/acd22833-c528-4394-bee5-860300fe2599)
 
 ## Base64Cj7 :
 * Codifica y decodifica texto y archivos en base64 de una manera fácil y sencilla.
