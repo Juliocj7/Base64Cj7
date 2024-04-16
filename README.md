@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328319](https://github.com/Juliocj7/Base64Cj7/assets/81049859/acd22833-c528-4394-bee5-860300fe2599)
 
 ## Base64Cj7 :
-* Codifica y decodifica texto y archivos en base64 de una manera fácil y sencilla.
+* Codifica y decodifica texto y archivos en **Base64** de una manera fácil y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -54,17 +54,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/Base64Cj7`
-
-* `cd Base64Cj7`
-
-* `chmod +x *`
-
-* `./Base64Cj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/Base64Cj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd Base64Cj7 && chmod +x * && ./Base64Cj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
